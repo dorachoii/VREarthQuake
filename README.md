@@ -30,7 +30,7 @@
 <details>
 <summary>① XR Toolkit InputActions カスタマイズ</summary>
 
-![세로_1](https://github.com/user-attachments/assets/a3d5be06-4bb8-4fd8-8df9-3e0eda6d3e58)
+
 
 
 ### 🔧 実装概要
@@ -121,7 +121,7 @@ public class CustomXRInputHandler : MonoBehaviour
 </details>
 
 <details>
-<summary>Vector3.Dot()を使った回転方向判定</summary>
+<summary>② Vector3.Dot()を使った回転方向判定</summary>
 
 
 
@@ -221,8 +221,12 @@ public class AnimateHandOnInput : MonoBehaviour
 ```
 </details>
 
+<details>
+<summary>勉強内容の整理</summary>
+![image (6)](https://github.com/user-attachments/assets/feb380dc-8cb1-4174-8b4e-2a217299ccb9)
+![image (7)](https://github.com/user-attachments/assets/e4746c24-95c8-42f3-b429-c80e32e5a2c0)
 
-
+</details>
 <br>
 <br>
 
